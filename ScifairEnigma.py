@@ -7,7 +7,6 @@ from tqdm import tqdm
 targets=['DEDGEGNVLPO','AWXWSFUDNSWXI','YOADZZMTEE','GMBOHTJHYLJNZX','YOKEQLYWRDJVJ','GGQNBFQY','NDEOFJIVEB','KMDRBDUZ','YEONV','KGWMBXTZX']
 times=[]
 filepath = r'C:\Users\MacWin\Desktop\english-words-master\english-words-master\words_alpha.txt'
-writepath
 line =''
 cnt = 1
 trial=0
