@@ -2,7 +2,7 @@
 ## Files
 words_alpha.txt is the wordlist.
 ### Data
-contaisn all data from trials
+contains all data from trials
 ### Scripts
 Samplecracker.py is the base platform on which all other crackers are based.
 SciFairm209 requires a config file m209keys.cfg (included)
