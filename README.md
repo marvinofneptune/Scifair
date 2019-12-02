@@ -1,9 +1,9 @@
 # SciFair
 ## Files
 words_alpha.txt is the wordlist.
-### Data
+#### Data
 contains all data from trials
-### Scripts
+#### Scripts
 Samplecracker.py is the base platform on which all other crackers are based.
 SciFairm209 requires a config file m209keys.cfg (included)
 
