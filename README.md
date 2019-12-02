@@ -1,5 +1,6 @@
-# Scifair
+# Description
 A set of Python scripts used in the 2019/20 science fair.
+Created by Aiden Lee
 # Needed libraries:
 All can be installed using `pip install libraryname`
 
