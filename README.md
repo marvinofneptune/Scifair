@@ -2,7 +2,10 @@
 ## Files
 words_alpha.txt is the wordlist.
 #### Data
-Each script has it's own data included in its file
+A Note on data:
+* Data has been collected from a 15in Core i7 2.5GHz Retina MacBook Pro running Windows 7, with no other programs running in the background.
+* All external communication has also been shut off, such as wifi and bluetooth
+* Each script contains data of 3 tests of 5 trials. These are named *scriptname_testnumber*.txt
 #### Scripts
 Samplecracker.py is the base platform on which all other crackers are based.
 SciFairm209 requires a config file :m209keys.cfg (included)
