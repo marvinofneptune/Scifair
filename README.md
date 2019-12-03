@@ -8,7 +8,7 @@ A Note on data:
 * Each script contains data of 3 tests of 5 trials. These are named *scriptname_testnumber*.txt
 #### Scripts
 Samplecracker.py is the base platform on which all other crackers are based.
-SciFairm209 requires a config file :m209keys.cfg (included)
+SciFairm209.py and SciFaircombination.py requires a config file: m209keys.cfg (included)
 
 ## Needed libraries:
 Install libraries using `pip`
