@@ -7,7 +7,7 @@ A Note on data:
 * All external communication has also been shut off, such as wifi and bluetooth
 * Each script contains data of 3 tests of 5 trials. These are named *scriptname_testnumber*.txt
 * Each trial time and average times are put in this order 
-'Counselling',' epiperipheral','semichorus','preexpectation','secondsighted','pasgarde','tuberculum','brumalia','songy','barrancas'
+`'Counselling',' epiperipheral','semichorus','preexpectation','secondsighted','pasgarde','tuberculum','brumalia','songy','barrancas'`
 #### Scripts
 Samplecracker.py is the base platform on which all other crackers are based.
 SciFairm209.py and SciFaircombination.py requires a config file: m209keys.cfg (included)
