@@ -6,7 +6,7 @@ from enigma.machine import EnigmaMachine
 import math
 import time
 from tqdm import tqdm
-print('M-209: Science Fair 2019/2020 Aiden Lee')
+print('M-209 & Enigma combination: Science Fair 2019/2020 Aiden Lee')
 targets=[
 'MHFIJNXCILSAHAWYWUJHRAPZOONGTZDFONKAIZQTO', 
 'MHFIJNXCILSAIMCODUXXPWNZLXVGTZDFONKAIZQTO', 
