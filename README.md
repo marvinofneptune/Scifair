@@ -3,7 +3,7 @@
 words_alpha.txt is the wordlist.
 #### Data
 A Note on data:
-* Data has been collected from a 15in Core i7 2.5GHz Retina MacBook Pro running Windows 7, with no other programs running in the background.
+* Data has been collected from a 15in Core i7 2.5GHz Retina MacBook Pro running Windows 7, with no other programs except VS Code running in the background.
 * All external communication has also been shut off, such as wifi and bluetooth
 * Each script contains data of 3 tests of 5 trials. These are named *scriptname_testnumber*.txt
 #### Scripts
